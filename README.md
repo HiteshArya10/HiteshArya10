@@ -16,6 +16,7 @@ I’m a passionate self-taught developer focused on building real-world technica
 📚 Currently continuing my education through NIOS (Open Board)  
 🎯 Preparing for higher studies in technology  
 💡 Committed to continuous learning and long-term growth  
+🚀 Founder of HitSanX — a personal tech initiative focused on AI, development, and digital innovation.
 
 Since 2020, I’ve dedicated myself to mastering programming, development, and creative tools — building a strong technical foundation.
 
